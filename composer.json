@@ -10,6 +10,11 @@
     "source": "https://github.com/projectsend/projectsend/"
   },
   "config": {
+    "audit": {
+      "ignore": [
+        "PKSA-4g5g-4rkv-myqs"
+      ]
+    },
     "preferred-install": "dist"
   },
   "prefer-stable": true,
